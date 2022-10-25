@@ -1,0 +1,159 @@
+/*font-family: 'Open Sans', sans-serif;*/
+/*border-radius: 141px 141px 141px 141px;*/
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+header{
+    background-color:#2e64a4;
+    /*text-align: center;*/
+    
+}
+header h1{
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 100;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+    margin-left: 10px;
+
+}
+header img{
+    border-radius: 141px 141px 141px 141px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+nav{
+    background-color: #6da9ed;
+    margin-bottom: 20px;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    width: 16%;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+nav ul li a:hover{
+    background:#ccc ;
+    
+}
+nav ul li a.activo{
+    background-color: #4c76a5;
+}
+footer{
+    background-color:#ccc;
+    padding: 40px;
+    text-align: center;
+}
+.holder{
+    max-width: 960px;
+    margin: 0 auto;
+}
+h2{
+    
+    font-weight: 300;
+}
+
+.hola{
+    font-size: 1.6em;
+    text-align: center;
+    
+}
+p{
+    font-size: 20px;
+    
+}
+.homeimg img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.secundaria img{
+    margin-bottom: 10px;
+}
+.magic img{
+    margin-bottom: 10px;
+} 
+.libro img{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+} 
+.primaria img{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+} 
+.secundaria img{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.pokemon img{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}   
+.magic img{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+form{
+    width: 40%;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+    margin: 20px;
+    padding: 20px;
+}
+label{
+    font-size: 14px;
+    display: block;
+    width: 100%;
+}
+input, textarea{
+    margin-bottom: 20px;
+    width: 80%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    background-color: #ccc;
+}
+textarea{
+    resize: none;
+    height: 80px;
+}
+button{
+    width: 80%;
+}
+.novedades p{
+    text-align: center;
+    
+}
+.novedades h3{
+    text-align: center;
+}
+.novedades img{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+
+
+
